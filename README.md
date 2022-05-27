@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="https://github.com/avtomato/avtomato/blob/master/img/bebbae81-1e89-4f65-b26f-d743758429a5.jpeg?raw=true" alt="image">
+<!-- ### Hi there 👋 -->
 
 <!--
 **avtomato/avtomato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
